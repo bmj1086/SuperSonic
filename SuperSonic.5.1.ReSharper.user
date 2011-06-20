@@ -8,17 +8,43 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="197" fromTop="10" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextColumn.cs" caret="290" fromTop="11" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextCell.cs" caret="117" fromTop="4" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1418" fromTop="47" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1510" fromTop="47" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="0" fromTop="0" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1392" fromTop="5" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="695" fromTop="17" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="939" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1418" fromTop="39" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="92" fromTop="4" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="202" fromTop="10" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextColumn.cs" caret="299" fromTop="11" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextCell.cs" caret="445" fromTop="14" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="0" fromTop="0" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="443" fromTop="19" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1252" fromTop="30" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1155" fromTop="26" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="33" fromTop="0" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="118" fromTop="5" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="0" fromTop="0" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="509" fromTop="13" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="804" fromTop="21" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1134" fromTop="19" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="781" fromTop="14" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1016" fromTop="14" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1234" fromTop="27" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1261" fromTop="20" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="4095" fromTop="24" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="3867" fromTop="21" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1715" fromTop="23" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="2022" fromTop="30" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="860" fromTop="13" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="860" fromTop="17" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="748" fromTop="16" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="798" fromTop="6" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="1023" fromTop="15" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="529" fromTop="7" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="529" fromTop="2" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="798" fromTop="12" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="264" fromTop="6" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="695" fromTop="17" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="1090" fromTop="17" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1266" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -36,13 +62,119 @@
     <ItemStatistics item="Default">
       <Item value="UserControl`0" priority="0" />
       <Item value="DataGridViewColumn`0" priority="0" />
-      <Item value="public" priority="0" />
+      <Item value="public" priority="4" />
       <Item value="DataGridViewImageTextColumn`0" priority="0" />
       <Item value="CellTemplate" priority="0" />
-      <Item value="new" priority="0" />
+      <Item value="new" priority="1" />
       <Item value="DataGridViewCell`0" priority="0" />
-      <Item value="protected" priority="0" />
-      <Item value="override" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="override" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="CreateParams`0" priority="0" />
+      <Item value="base" priority="1" />
+      <Item value="cp" priority="2" />
+      <Item value="CS_DROPSHADOW" priority="2" />
+      <Item value="return" priority="0" />
+      <Item value="IList" priority="3" />
+      <Item value="private" priority="3" />
+      <Item value="Artist`0" priority="0" />
+      <Item value="albumCoverArt" priority="1" />
+      <Item value="album" priority="4" />
+      <Item value="albumContainer" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="internal" priority="1" />
+      <Item value="ArtistList" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="Controls" priority="0" />
+      <Item value="Invoke`0" priority="0" />
+      <Item value="MethodInvoker`0" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="Dock" priority="0" />
+      <Item value="DockStyle`0" priority="0" />
+      <Item value="BorderStyle" priority="1" />
+      <Item value="BorderStyle`0" priority="0" />
+      <Item value="partial" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="PictureBox`0" priority="0" />
+      <Item value="PictureBoxDS`0" priority="3" />
+      <Item value="var" priority="2" />
+      <Item value="e" priority="1" />
+      <Item value="sender" priority="1" />
+      <Item value="as" priority="1" />
+      <Item value="FixedSingle" priority="0" />
+      <Item value="ImageList`0" priority="0" />
+      <Item value="Album`0" priority="2" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="albumInfo" priority="2" />
+      <Item value="string" priority="0" />
+      <Item value="ControlStyles`0" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="SetStyle`0" priority="0" />
+      <Item value="Cursor" priority="1" />
+      <Item value="Cursors`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.UserControl">
+      <Item value="CreateParams" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CreateParams">
+      <Item value="ClassStyle" priority="0" />
+      <Item value="Style" priority="0" />
+      <Item value="ExStyle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpSub.Data.Album">
+      <Item value="CoverArt`0" priority="0" />
+      <Item value="Title" priority="1" />
+      <Item value="Artist" priority="2" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="HorizontalScroll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.HScrollProperties">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Fill" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.BorderStyle">
+      <Item value="None" priority="0" />
+      <Item value="FixedSingle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SuperSonic.CustomControls.AlbumViewer.PictureBoxDS">
+      <Item value="BorderStyle" priority="1" />
+      <Item value="Album" priority="0" />
+      <Item value="SetStyle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.BorderStyle">
+      <Item value="None" priority="0" />
+      <Item value="FixedSingle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ControlStyles">
+      <Item value="DoubleBuffer" priority="0" />
+      <Item value="OptimizedDoubleBuffer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
+      <Item value="Hand" priority="1" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

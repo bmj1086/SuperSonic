@@ -1,0 +1,11 @@
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\bin\Debug\SuperSonic.CustomControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\bin\Debug\SuperSonic.CustomControls.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\bin\Debug\SharpSub.Data.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\bin\Debug\NAudio.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.AlbumViewer.AlbumCoverAndText.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.AlbumViewer.AlbumViewer.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.pdb

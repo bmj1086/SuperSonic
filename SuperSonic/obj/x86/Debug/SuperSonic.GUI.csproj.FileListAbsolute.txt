@@ -10,3 +10,14 @@ C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSoni
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.exe.config
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.exe
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.exe
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.GUI.MainGUI.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.GUI.Properties.Resources.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SharpSub.Data.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.CustomControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\NAudio.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.CustomControls.pdb
