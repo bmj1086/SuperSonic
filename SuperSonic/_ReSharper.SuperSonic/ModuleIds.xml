@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="B48729A8-4DDF-4C80-9307-A35159064360" ModuleId="SuperSonic.GUI" />
+  <Module PersistentId="C21F53B2-2B73-43BF-99F9-7046D568BB3D" ModuleId="SuperSonic.CustomControls" />
+</Modules>
