@@ -1,0 +1,48 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="197" fromTop="10" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextColumn.cs" caret="290" fromTop="11" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextCell.cs" caret="117" fromTop="4" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1418" fromTop="47" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1418" fromTop="39" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="92" fromTop="4" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="202" fromTop="10" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextColumn.cs" caret="299" fromTop="11" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/f:DataGridViewImageTextCell.cs" caret="445" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="UserControl`0" priority="0" />
+      <Item value="DataGridViewColumn`0" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="DataGridViewImageTextColumn`0" priority="0" />
+      <Item value="CellTemplate" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="DataGridViewCell`0" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="override" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

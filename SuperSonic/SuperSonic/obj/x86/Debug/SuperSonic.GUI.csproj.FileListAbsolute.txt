@@ -1,9 +1,0 @@
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\bin\Debug\SuperSonic.exe
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\bin\Debug\SuperSonic.pdb
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.Properties.Resources.resources
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.exe
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\obj\x86\Debug\SuperSonic.pdb
-C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\SuperSonic\bin\Debug\SuperSonic.exe.config
