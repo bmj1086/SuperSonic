@@ -87,6 +87,10 @@
       <Project>{C21F53B2-2B73-43BF-99F9-7046D568BB3D}</Project>
       <Name>SuperSonic.CustomControls</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SuperSonic.MainControls\SuperSonic.MainControls.csproj">
+      <Project>{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}</Project>
+      <Name>SuperSonic.MainControls</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

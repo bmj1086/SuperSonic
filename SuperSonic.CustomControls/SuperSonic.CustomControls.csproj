@@ -58,6 +58,18 @@
     <Compile Include="AlbumViewer\AlbumViewer.Designer.cs">
       <DependentUpon>AlbumViewer.cs</DependentUpon>
     </Compile>
+    <Compile Include="ArtistViewer\ArtistItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ArtistViewer\ArtistItem.Designer.cs">
+      <DependentUpon>ArtistItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArtistViewer\ArtistViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ArtistViewer\ArtistViewer.Designer.cs">
+      <DependentUpon>ArtistViewer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
@@ -68,7 +80,14 @@
     <EmbeddedResource Include="AlbumViewer\AlbumViewer.resx">
       <DependentUpon>AlbumViewer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ArtistViewer\ArtistItem.resx">
+      <DependentUpon>ArtistItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArtistViewer\ArtistViewer.resx">
+      <DependentUpon>ArtistViewer.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

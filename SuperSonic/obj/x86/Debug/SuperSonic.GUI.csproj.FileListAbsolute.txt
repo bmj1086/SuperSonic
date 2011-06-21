@@ -21,3 +21,5 @@ C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSoni
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.CustomControls.dll
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\NAudio.dll
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.CustomControls.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.MainControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic\bin\Debug\SuperSonic.MainControls.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\SuperSonic.MainControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\SuperSonic.MainControls.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\obj\Debug\SuperSonic.MainControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\obj\Debug\SuperSonic.MainControls.pdb
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\SharpSub.Data.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\SuperSonic.CustomControls.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\NAudio.dll
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.MainControls\bin\Debug\SuperSonic.CustomControls.pdb

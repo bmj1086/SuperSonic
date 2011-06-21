@@ -10,6 +10,16 @@ namespace SuperSonic.CustomControls.AlbumViewer
     {
         public AlbumViewer(IList<Artist> artistList)
         {
+            Init(artistList);
+        }
+
+        public AlbumViewer(Artist artist)
+        {
+            Init(new List<Artist> {artist});
+        }
+
+        public void Init(IList<Artist> artistList)
+        {
             InitializeComponent();
             ArtistList = artistList;
             albumContainer.HorizontalScroll.Enabled = false;
