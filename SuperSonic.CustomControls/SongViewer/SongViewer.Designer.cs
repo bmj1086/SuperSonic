@@ -1,6 +1,6 @@
-﻿namespace SuperSonic.CustomControls.ArtistViewer
+﻿namespace SuperSonic.CustomControls.SongViewer
 {
-    partial class ArtistViewer
+    partial class SongViewer
     {
         /// <summary> 
         /// Required designer variable.
@@ -33,25 +33,22 @@
             // 
             // mainContainer
             // 
-            this.mainContainer.AutoScroll = true;
             this.mainContainer.Dock = System.Windows.Forms.DockStyle.Fill;
             this.mainContainer.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.mainContainer.Location = new System.Drawing.Point(0, 0);
             this.mainContainer.Name = "mainContainer";
-            this.mainContainer.Size = new System.Drawing.Size(523, 192);
+            this.mainContainer.Size = new System.Drawing.Size(583, 252);
             this.mainContainer.TabIndex = 0;
             this.mainContainer.WrapContents = false;
-            this.mainContainer.Resize += new System.EventHandler(this.MainContainerResize);
             // 
-            // ArtistViewer
+            // SongViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
             this.Controls.Add(this.mainContainer);
-            this.DoubleBuffered = true;
-            this.Name = "ArtistViewer";
-            this.Size = new System.Drawing.Size(523, 192);
+            this.Name = "SongViewer";
+            this.Size = new System.Drawing.Size(583, 252);
             this.ResumeLayout(false);
 
         }

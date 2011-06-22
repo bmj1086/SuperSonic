@@ -15,7 +15,10 @@ namespace SuperSonic.MainControls
 
         public void Init()
         {
+            SuspendLayout();
+            DoubleBuffered = true;
             Dock = DockStyle.Fill;
+            ResumeLayout(false);
         }
     }
 }

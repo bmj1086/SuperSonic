@@ -8,43 +8,48 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="1510" fromTop="47" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.Designer.cs" caret="6604" fromTop="47" />
       <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="0" fromTop="0" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1392" fromTop="5" />
       <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="695" fromTop="17" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="939" fromTop="13" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1281" fromTop="15" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:AlbumsControl.cs" caret="637" fromTop="24" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:ArtistsControl.cs" caret="438" fromTop="15" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.Designer.cs" caret="1879" fromTop="25" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1816" fromTop="14" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="630" fromTop="13" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="472" fromTop="11" />
     </RecentFiles>
     <RecentEdits>
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="0" fromTop="0" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="443" fromTop="19" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1252" fromTop="30" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1155" fromTop="26" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="33" fromTop="0" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="118" fromTop="5" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="0" fromTop="0" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="509" fromTop="13" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="804" fromTop="21" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1134" fromTop="19" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="781" fromTop="14" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1016" fromTop="14" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1234" fromTop="27" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1261" fromTop="20" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="4095" fromTop="24" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.Designer.cs" caret="3867" fromTop="21" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1715" fromTop="23" />
-      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="2022" fromTop="30" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="860" fromTop="13" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="860" fromTop="17" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="748" fromTop="16" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="798" fromTop="6" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="1023" fromTop="15" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="529" fromTop="7" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="529" fromTop="2" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="798" fromTop="12" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="264" fromTop="6" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="695" fromTop="17" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumCoverAndText.cs" caret="1090" fromTop="17" />
-      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1266" fromTop="13" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="690" fromTop="15" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="878" fromTop="5" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="109" fromTop="3" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:AlbumsControl.cs" caret="625" fromTop="18" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:AlbumsControl.cs" caret="366" fromTop="8" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:AlbumsControl.cs" caret="725" fromTop="16" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:AlbumViewer/f:AlbumViewer.cs" caret="1486" fromTop="16" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="278" fromTop="8" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="0" fromTop="0" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="0" fromTop="0" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:AlbumsControl.cs" caret="634" fromTop="16" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:ArtistsControl.cs" caret="438" fromTop="15" />
+      <File id="C221CD61-4CF7-4202-B81D-C81C6DA92BAD/f:ArtistsControl.cs" caret="508" fromTop="15" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="3410" fromTop="16" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="3225" fromTop="11" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="2683" fromTop="27" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="2625" fromTop="28" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="600" fromTop="15" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="326" fromTop="11" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="5939" fromTop="11" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="951" fromTop="24" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="2450" fromTop="25" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1527" fromTop="8" />
+      <File id="B48729A8-4DDF-4C80-9307-A35159064360/f:MainGUI.cs" caret="1730" fromTop="11" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="981" fromTop="18" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistViewer.cs" caret="1145" fromTop="14" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="472" fromTop="22" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="321" fromTop="0" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="1105" fromTop="0" />
+      <File id="C21F53B2-2B73-43BF-99F9-7046D568BB3D/d:ArtistViewer/f:ArtistItem.cs" caret="474" fromTop="3" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -62,51 +67,51 @@
     <ItemStatistics item="Default">
       <Item value="UserControl`0" priority="0" />
       <Item value="DataGridViewColumn`0" priority="0" />
-      <Item value="public" priority="4" />
+      <Item value="public" priority="13" />
       <Item value="DataGridViewImageTextColumn`0" priority="0" />
       <Item value="CellTemplate" priority="0" />
-      <Item value="new" priority="1" />
+      <Item value="new" priority="5" />
       <Item value="DataGridViewCell`0" priority="0" />
-      <Item value="protected" priority="1" />
-      <Item value="override" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="override" priority="2" />
       <Item value="int" priority="0" />
       <Item value="CreateParams`0" priority="0" />
       <Item value="base" priority="1" />
       <Item value="cp" priority="2" />
       <Item value="CS_DROPSHADOW" priority="2" />
-      <Item value="return" priority="0" />
-      <Item value="IList" priority="3" />
-      <Item value="private" priority="3" />
-      <Item value="Artist`0" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="IList" priority="8" />
+      <Item value="private" priority="6" />
+      <Item value="Artist`0" priority="4" />
       <Item value="albumCoverArt" priority="1" />
       <Item value="album" priority="4" />
       <Item value="albumContainer" priority="1" />
-      <Item value="false" priority="0" />
+      <Item value="false" priority="1" />
       <Item value="internal" priority="1" />
       <Item value="ArtistList" priority="0" />
-      <Item value="void" priority="0" />
-      <Item value="object" priority="0" />
-      <Item value="this" priority="1" />
-      <Item value="Controls" priority="0" />
+      <Item value="void" priority="4" />
+      <Item value="object" priority="1" />
+      <Item value="this" priority="4" />
+      <Item value="Controls" priority="1" />
       <Item value="Invoke`0" priority="0" />
-      <Item value="MethodInvoker`0" priority="0" />
-      <Item value="delegate" priority="0" />
-      <Item value="Dock" priority="0" />
-      <Item value="DockStyle`0" priority="0" />
+      <Item value="MethodInvoker`0" priority="1" />
+      <Item value="delegate" priority="1" />
+      <Item value="Dock" priority="2" />
+      <Item value="DockStyle`0" priority="2" />
       <Item value="BorderStyle" priority="1" />
       <Item value="BorderStyle`0" priority="0" />
       <Item value="partial" priority="0" />
       <Item value="class" priority="0" />
       <Item value="PictureBox`0" priority="0" />
       <Item value="PictureBoxDS`0" priority="3" />
-      <Item value="var" priority="2" />
+      <Item value="var" priority="4" />
       <Item value="e" priority="1" />
       <Item value="sender" priority="1" />
       <Item value="as" priority="1" />
       <Item value="FixedSingle" priority="0" />
-      <Item value="ImageList`0" priority="0" />
-      <Item value="Album`0" priority="2" />
-      <Item value="MessageBox`0" priority="0" />
+      <Item value="ImageList`0" priority="2" />
+      <Item value="Album`0" priority="3" />
+      <Item value="MessageBox`0" priority="1" />
       <Item value="albumInfo" priority="2" />
       <Item value="string" priority="0" />
       <Item value="ControlStyles`0" priority="1" />
@@ -114,6 +119,38 @@
       <Item value="SetStyle`0" priority="0" />
       <Item value="Cursor" priority="1" />
       <Item value="Cursors`0" priority="0" />
+      <Item value="AlbumViewer`0" priority="1" />
+      <Item value="singleArtist" priority="1" />
+      <Item value="artist" priority="7" />
+      <Item value="Init`0" priority="1" />
+      <Item value="artistList" priority="3" />
+      <Item value="InvokeRequired" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="SuperSonic" priority="0" />
+      <Item value="MainControls" priority="0" />
+      <Item value="AlbumsControl`0" priority="2" />
+      <Item value="ArtistItem`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="artistName" priority="0" />
+      <Item value="SubsonicRequest`0" priority="0" />
+      <Item value="albums" priority="2" />
+      <Item value="randomCoverArt" priority="2" />
+      <Item value="Random" priority="0" />
+      <Item value="r" priority="1" />
+      <Item value="GetRandomAlbum`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="mainContainer" priority="3" />
+      <Item value="ArtistsControl`0" priority="1" />
+      <Item value="Top" priority="0" />
+      <Item value="LinearGradientMode`0" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Width" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="Anchor" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="AnchorStyles`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.UserControl">
       <Item value="CreateParams" priority="0" />
@@ -124,13 +161,13 @@
       <Item value="ExStyle" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:SharpSub.Data.Album">
-      <Item value="CoverArt`0" priority="0" />
+      <Item value="CoverArt`0" priority="1" />
       <Item value="Title" priority="1" />
       <Item value="Artist" priority="2" />
       <Item value="ToString`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
-      <Item value="Image" priority="0" />
+      <Item value="Image" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.Label">
       <Item value="Text" priority="1" />
@@ -139,16 +176,18 @@
       <Item value="HorizontalScroll" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.HScrollProperties">
-      <Item value="Enabled" priority="0" />
+      <Item value="Enabled" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
       <Item value="QueueUserWorkItem`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
-      <Item value="Add`0" priority="0" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Clear`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
-      <Item value="Fill" priority="0" />
+      <Item value="Fill" priority="3" />
+      <Item value="None" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.BorderStyle">
       <Item value="None" priority="0" />
@@ -164,7 +203,7 @@
       <Item value="FixedSingle" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
-      <Item value="Show`0" priority="0" />
+      <Item value="Show`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
       <Item value="Format`0" priority="0" />
@@ -175,6 +214,52 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
       <Item value="Hand" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitContainer">
+      <Item value="Panel2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SuperSonic.MainControls.AlbumsControl">
+      <Item value="Dock" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpSub.Data.Artist">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpSub.Data.SubsonicRequest">
+      <Item value="GetArtistAlbums`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FlowLayoutPanel">
+      <Item value="InvokeRequired" priority="1" />
+      <Item value="Controls" priority="0" />
+      <Item value="HorizontalScroll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SplitterPanel">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Drawing2D.LinearGradientMode">
+      <Item value="Vertical" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="DarkSlateGray" priority="0" />
+      <Item value="SlateGray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SuperSonic.CustomControls.ArtistViewer.ArtistViewer">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.AnchorStyles">
+      <Item value="Top" priority="0" />
+      <Item value="Right" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

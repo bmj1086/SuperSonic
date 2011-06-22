@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 using SharpSub.Data;
@@ -45,36 +46,36 @@ namespace SuperSonic.GUI
 
         private void AddAlbumViewer(object newArtistList)
         {
-            if (mainContainer.Panel2.InvokeRequired)
+            if (controlPanel.InvokeRequired)
             {
-                mainContainer.Panel2.Invoke((MethodInvoker)delegate
+                controlPanel.Invoke((MethodInvoker)delegate
                 {
-                    mainContainer.Panel2.Controls.Clear();
-                    mainContainer.Panel2.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList));
+                    controlPanel.Controls.Clear();
+                    controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList));
                 });
             }
             else
             {
-                mainContainer.Panel2.Controls.Clear();
-                mainContainer.Panel2.Controls.Add(new AlbumsControl((IList<Artist>) newArtistList));
+                controlPanel.Controls.Clear();
+                controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList));
             }
         }
 
         private void AddArtistViewer(object newArtistList)
         {
-            if (mainContainer.Panel2.InvokeRequired)
+            if (controlPanel.InvokeRequired)
             {
-                
-                mainContainer.Panel2.Invoke((MethodInvoker)delegate
+
+                controlPanel.Invoke((MethodInvoker)delegate
                 {
-                    mainContainer.Panel2.Controls.Clear();
-                    mainContainer.Panel2.Controls.Add(new ArtistsControl((IList<Artist>) newArtistList));
+                    controlPanel.Controls.Clear();
+                    controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill });
                 });
             }
             else
             {
-                mainContainer.Panel2.Controls.Clear();
-                mainContainer.Panel2.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList));
+                controlPanel.Controls.Clear();
+                controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList));
             }
         }
 
@@ -89,19 +90,34 @@ namespace SuperSonic.GUI
             }
         }
 
-        private void MainGUI_Load(object sender, System.EventArgs e)
+        private void MainGUILoad(object sender, System.EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, System.EventArgs e)
+        private void Label1Click(object sender, System.EventArgs e)
         {
+            breadCrumb.Controls.Clear();
+            breadCrumb.Controls.Add(CreateBreadCrumb("Artists"));
             ThreadPool.QueueUserWorkItem(AddArtistViewer, ArtistList);
         }
 
-        private void label2_Click(object sender, System.EventArgs e)
+        private void Label2Click(object sender, System.EventArgs e)
         {
+            breadCrumb.Controls.Clear();
+            breadCrumb.Controls.Add(CreateBreadCrumb("Albums"));
             ThreadPool.QueueUserWorkItem(AddAlbumViewer, ArtistList);
+        }
+
+        private Label CreateBreadCrumb(string text)
+        {
+            return new Label
+                       {
+                           Text = text, 
+                           Padding = new Padding(0, 5, 10, 5), 
+                           ForeColor = Color.WhiteSmoke,
+                           Font = new Font("Verdana", 8, FontStyle.Bold)
+                       };
         }
     }
 }

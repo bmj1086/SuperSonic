@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Windows.Forms;
 using SharpSub.Data;
 using SuperSonic.CustomControls.AlbumViewer;
@@ -24,7 +21,10 @@ namespace SuperSonic.MainControls
 
         public void Init()
         {
+            SuspendLayout();
+            DoubleBuffered = true;
             Dock = DockStyle.Fill;
+            ResumeLayout(false);
         }
     }
 }

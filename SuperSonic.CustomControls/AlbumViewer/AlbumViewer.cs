@@ -35,14 +35,21 @@ namespace SuperSonic.CustomControls.AlbumViewer
             foreach (var album in ((IList<Artist>) artistList).Select(SubsonicRequest.GetArtistAlbums).SelectMany(tempAlbumList => tempAlbumList))
                 AlbumList.Add(album);
 
-            foreach (var a in AlbumList)
+            foreach (var albumCoverAndText in AlbumList.Select(a => new AlbumCoverAndText(a)))
             {
-                albumContainer.Invoke((MethodInvoker)delegate
+                if(albumContainer.InvokeRequired)
                 {
-                    albumContainer.Controls.Add(new AlbumCoverAndText(a));
+                    albumContainer.Invoke((MethodInvoker)delegate
+                    {
+                        albumContainer.Controls.Add(albumCoverAndText);
+                        albumContainer.Refresh();
+                    });
+                }
+                else
+                {
+                    albumContainer.Controls.Add(albumCoverAndText);
                     albumContainer.Refresh();
-                });
-
+                }
             }
         }
 
