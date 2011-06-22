@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 using SharpSub.Data;
@@ -30,7 +29,6 @@ namespace SuperSonic.CustomControls.ArtistViewer
                         mainContainer.Controls.Add(artistItem);
                         mainContainer.Refresh();
                     });
-                    
                 }
                 else
                 {

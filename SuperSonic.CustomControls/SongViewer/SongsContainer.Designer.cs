@@ -69,7 +69,7 @@
             // 
             this.songListPanel.Location = new System.Drawing.Point(153, 3);
             this.songListPanel.Name = "songListPanel";
-            this.songListPanel.Size = new System.Drawing.Size(304, 100);
+            this.songListPanel.Size = new System.Drawing.Size(367, 140);
             this.songListPanel.TabIndex = 3;
             // 
             // SongsContainer
@@ -82,7 +82,7 @@
             this.Controls.Add(this.albumName);
             this.Controls.Add(this.pictureBox1);
             this.Name = "SongsContainer";
-            this.Size = new System.Drawing.Size(460, 146);
+            this.Size = new System.Drawing.Size(523, 146);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
