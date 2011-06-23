@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSonic.GUI", "SuperSoni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSonic.CustomControls", "SuperSonic.CustomControls\SuperSonic.CustomControls.csproj", "{C21F53B2-2B73-43BF-99F9-7046D568BB3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSonic.MainControls", "SuperSonic.MainControls\SuperSonic.MainControls.csproj", "{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,16 +35,6 @@ Global
 		{C21F53B2-2B73-43BF-99F9-7046D568BB3D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C21F53B2-2B73-43BF-99F9-7046D568BB3D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C21F53B2-2B73-43BF-99F9-7046D568BB3D}.Release|x86.ActiveCfg = Release|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{C221CD61-4CF7-4202-B81D-C81C6DA92BAD}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

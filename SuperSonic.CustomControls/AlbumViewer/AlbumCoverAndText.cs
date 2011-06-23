@@ -18,7 +18,9 @@ namespace SuperSonic.CustomControls.AlbumViewer
         private void AlbumCoverArtClick(object sender, System.EventArgs e)
         {
             var albumInfo = (sender as PictureBoxDS).Album;
-            //MessageBox.Show(string.Format("Artist: {1}\rTitle: {0} ",albumInfo.Title,albumInfo.Artist));
+            var controlPanel = ((Parent.Parent.Parent as AlbumsControl).Parent as Panel);
+            controlPanel.Controls.Clear();
+            controlPanel.Controls.Add(new SongsControl(albumInfo) { Dock = DockStyle.Fill });
         }
     }
 

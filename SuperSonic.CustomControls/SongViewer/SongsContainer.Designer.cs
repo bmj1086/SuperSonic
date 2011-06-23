@@ -28,20 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.coverArt = new System.Windows.Forms.PictureBox();
             this.albumName = new System.Windows.Forms.Label();
             this.artistName = new System.Windows.Forms.Label();
             this.songListPanel = new System.Windows.Forms.FlowLayoutPanel();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.coverArt)).BeginInit();
             this.SuspendLayout();
             // 
-            // pictureBox1
+            // coverArt
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.coverArt.Location = new System.Drawing.Point(3, 3);
+            this.coverArt.Name = "coverArt";
+            this.coverArt.Size = new System.Drawing.Size(100, 100);
+            this.coverArt.TabIndex = 0;
+            this.coverArt.TabStop = false;
             // 
             // albumName
             // 
@@ -67,10 +67,12 @@
             // 
             // songListPanel
             // 
-            this.songListPanel.Location = new System.Drawing.Point(153, 3);
+            this.songListPanel.Dock = System.Windows.Forms.DockStyle.Right;
+            this.songListPanel.Location = new System.Drawing.Point(150, 0);
             this.songListPanel.Name = "songListPanel";
-            this.songListPanel.Size = new System.Drawing.Size(367, 140);
+            this.songListPanel.Size = new System.Drawing.Size(400, 146);
             this.songListPanel.TabIndex = 3;
+            this.songListPanel.ControlAdded += new System.Windows.Forms.ControlEventHandler(this.SongListPanelControlAdded);
             // 
             // SongsContainer
             // 
@@ -80,10 +82,10 @@
             this.Controls.Add(this.songListPanel);
             this.Controls.Add(this.artistName);
             this.Controls.Add(this.albumName);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.coverArt);
             this.Name = "SongsContainer";
-            this.Size = new System.Drawing.Size(523, 146);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Size = new System.Drawing.Size(550, 146);
+            ((System.ComponentModel.ISupportInitialize)(this.coverArt)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -91,7 +93,7 @@
 
         #endregion
 
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox coverArt;
         private System.Windows.Forms.Label albumName;
         private System.Windows.Forms.Label artistName;
         private System.Windows.Forms.FlowLayoutPanel songListPanel;

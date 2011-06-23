@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 using SharpSub.Data;
-using SuperSonic.MainControls;
+using SuperSonic.CustomControls;
 
 namespace SuperSonic.GUI
 {
@@ -12,6 +12,7 @@ namespace SuperSonic.GUI
         public MainGUI()
         {
             InitializeComponent();
+            MainGuiInstance = this;
             const string serverUrl = "bmjones.com:56565";
             const string username = "Guest";
             const string password = "notbrett";
@@ -21,6 +22,8 @@ namespace SuperSonic.GUI
                 return;
             ThreadPool.QueueUserWorkItem(LoadArtistList, loginResponse.Successful);
         }
+
+        public static object MainGuiInstance;
 
         private void LoadArtistList(object loginSuccessful)
         {
@@ -51,13 +54,13 @@ namespace SuperSonic.GUI
                 controlPanel.Invoke((MethodInvoker)delegate
                 {
                     controlPanel.Controls.Clear();
-                    controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList));
+                    controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill, Parent = this });
                 });
             }
             else
             {
                 controlPanel.Controls.Clear();
-                controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList));
+                controlPanel.Controls.Add(new AlbumsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill, Parent = this });
             }
         }
 
@@ -69,13 +72,13 @@ namespace SuperSonic.GUI
                 controlPanel.Invoke((MethodInvoker)delegate
                 {
                     controlPanel.Controls.Clear();
-                    controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill });
+                    controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill, Owner = controlPanel});
                 });
             }
             else
             {
                 controlPanel.Controls.Clear();
-                controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList));
+                controlPanel.Controls.Add(new ArtistsControl((IList<Artist>)newArtistList) { Dock = DockStyle.Fill, Owner = controlPanel });
             }
         }
 
@@ -109,7 +112,7 @@ namespace SuperSonic.GUI
             ThreadPool.QueueUserWorkItem(AddAlbumViewer, ArtistList);
         }
 
-        private Label CreateBreadCrumb(string text)
+        public static Label CreateBreadCrumb(string text)
         {
             return new Label
                        {

@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="AlbumViewer\AlbumCoverAndText.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -57,6 +60,9 @@
     </Compile>
     <Compile Include="AlbumViewer\AlbumViewer.Designer.cs">
       <DependentUpon>AlbumViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArtistsControl.cs">
+      <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="ArtistViewer\ArtistItem.cs">
       <SubType>UserControl</SubType>
@@ -71,6 +77,15 @@
       <DependentUpon>ArtistViewer.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SongsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SongViewer\Separator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SongViewer\Separator.Designer.cs">
+      <DependentUpon>Separator.cs</DependentUpon>
+    </Compile>
     <Compile Include="SongViewer\SongItem.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -103,6 +118,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ArtistViewer\ArtistViewer.resx">
       <DependentUpon>ArtistViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SongViewer\Separator.resx">
+      <DependentUpon>Separator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SongViewer\SongItem.resx">
+      <DependentUpon>SongItem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SongViewer\SongsContainer.resx">
       <DependentUpon>SongsContainer.cs</DependentUpon>

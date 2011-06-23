@@ -12,6 +12,7 @@ namespace SuperSonic.CustomControls.ArtistViewer
         public ArtistItem(Artist artist)
         {
             InitializeComponent();
+            Artist = artist;
             artistName.Text = artist.Name;
             randomCoverArt.Image = GetRandomAlbum(artist);
         }
@@ -29,6 +30,13 @@ namespace SuperSonic.CustomControls.ArtistViewer
         {
             var gradientBrush = new LinearGradientBrush(ClientRectangle, Color.FromArgb(40, 40, 40), Color.FromArgb(25, 25, 25), LinearGradientMode.Vertical);
             e.Graphics.FillRectangle(gradientBrush, ClientRectangle);
+        }
+
+        private void ArtistItemClick(object sender, EventArgs e)
+        {
+            var controlPanel = ((Parent.Parent.Parent as ArtistsControl).Owner as Panel);
+            controlPanel.Controls.Clear();
+            controlPanel.Controls.Add(new SongsControl(Artist) { Dock = DockStyle.Fill });
         }
     }
 }

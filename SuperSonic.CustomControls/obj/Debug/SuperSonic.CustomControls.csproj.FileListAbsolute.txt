@@ -13,3 +13,5 @@ C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSoni
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.ArtistViewer.ArtistViewer.resources
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.SongViewer.SongsContainer.resources
 C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.SongViewer.SongViewer.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.SongViewer.SongItem.resources
+C:\Documents and Settings\amv\My Documents\Visual Studio 2010\Projects\SuperSonic\SuperSonic.CustomControls\obj\Debug\SuperSonic.CustomControls.SongViewer.Separator.resources

@@ -59,11 +59,13 @@
             this.BackColor = System.Drawing.Color.Transparent;
             this.Controls.Add(this.artistName);
             this.Controls.Add(this.randomCoverArt);
+            this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(1);
             this.Name = "ArtistItem";
             this.Size = new System.Drawing.Size(398, 50);
+            this.Click += new System.EventHandler(this.ArtistItemClick);
             ((System.ComponentModel.ISupportInitialize)(this.randomCoverArt)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

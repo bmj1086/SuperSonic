@@ -1,6 +1,6 @@
 ﻿namespace SuperSonic.CustomControls.SongViewer
 {
-    partial class SongViewer
+    partial class Separator
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,35 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.mainContainer = new System.Windows.Forms.FlowLayoutPanel();
             this.SuspendLayout();
             // 
-            // mainContainer
-            // 
-            this.mainContainer.AutoScroll = true;
-            this.mainContainer.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.mainContainer.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.mainContainer.Location = new System.Drawing.Point(0, 0);
-            this.mainContainer.Name = "mainContainer";
-            this.mainContainer.Size = new System.Drawing.Size(550, 252);
-            this.mainContainer.TabIndex = 0;
-            this.mainContainer.WrapContents = false;
-            this.mainContainer.ControlAdded += new System.Windows.Forms.ControlEventHandler(this.MainContainerControlAdded);
-            // 
-            // SongViewer
+            // Separator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
-            this.Controls.Add(this.mainContainer);
-            this.Name = "SongViewer";
-            this.Size = new System.Drawing.Size(550, 252);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
+            this.Margin = new System.Windows.Forms.Padding(3, 12, 3, 12);
+            this.Name = "Separator";
+            this.Size = new System.Drawing.Size(550, 1);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.FlowLayoutPanel mainContainer;
     }
 }
